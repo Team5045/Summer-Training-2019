@@ -17,4 +17,4 @@ programming radio [here](https://wpilib.screenstepslive.com/s/currentCS/m/gettin
 [wpilib link](https://wpilib.screenstepslive.com/s/currentCS/m/cs_hardware/l/144971-wiring-the-frc-control-system)
 
 ## Programming guide
-read the docs [here] (https://robotpy.readthedocs.io/en/stable/getting_started.html)
+read the docs [here](https://robotpy.readthedocs.io/en/stable/getting_started.html)
