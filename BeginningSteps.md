@@ -10,6 +10,8 @@ you must download lab view before imaging roborio
 
 installing RobotPy on roborio [here](https://robotpy.readthedocs.io/en/stable/install/robot.html#install-robotpy)
 
+status lights [reference](https://wpilib.screenstepslive.com/s/currentCS/m/cs_hardware/l/144972-status-light-quick-reference)
+
 ## Radio Setup
 programming radio [here](https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/144986-programming-your-radio)
 
