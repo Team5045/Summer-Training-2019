@@ -20,3 +20,6 @@ programming radio [here](https://wpilib.screenstepslive.com/s/currentCS/m/gettin
 
 ## Programming guide
 read the docs [here](https://robotpy.readthedocs.io/en/stable/getting_started.html)
+
+## Updating pyfrc on your computer
+open terminal and run this command: pip3 install pyfrc
