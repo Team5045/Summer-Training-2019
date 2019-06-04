@@ -23,3 +23,6 @@ read the docs [here](https://robotpy.readthedocs.io/en/stable/getting_started.ht
 
 ## Updating pyfrc on your computer
 open terminal and run this command: pip3 install pyfrc
+
+## Pneumatics wiring
+overview on page 14 [here](https://firstfrc.blob.core.windows.net/frc2017/pneumatics-manual.pdf)
