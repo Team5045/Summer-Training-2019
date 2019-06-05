@@ -27,7 +27,9 @@ read the docs [here](https://robotpy.readthedocs.io/en/stable/getting_started.ht
 open terminal and run this command: pip3 install pyfrc
 
 ## Pneumatics wiring
-overview on page 14 [here](https://firstfrc.blob.core.windows.net/frc2017/pneumatics-manual.pdf)
+plumbing overview on page 14 [here](https://firstfrc.blob.core.windows.net/frc2017/pneumatics-manual.pdf)
+
+[wiring pneumatics]([wiring pneumatics])
 
 ## Mechanical Reference Center
 most links dont work but some are pretty good [here](https://first.wpi.edu/FRC/frc-mechanical.html)
