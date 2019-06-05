@@ -28,3 +28,6 @@ open terminal and run this command: pip3 install pyfrc
 
 ## Pneumatics wiring
 overview on page 14 [here](https://firstfrc.blob.core.windows.net/frc2017/pneumatics-manual.pdf)
+
+## Mechanical Reference Center
+[here](https://first.wpi.edu/FRC/frc-mechanical.html)
