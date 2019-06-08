@@ -33,3 +33,10 @@ plumbing overview on page 14 [here](https://firstfrc.blob.core.windows.net/frc20
 
 ## Mechanical Reference Center
 most links dont work but some are pretty good [here](https://first.wpi.edu/FRC/frc-mechanical.html)
+
+## Starting to Program
+make sure you have updated the roborio and the talon srx firmware
+
+to deploy code to the robot use py -3 robot.py deploy --skip-tests
+
+use "ctrl ~" to open powershell in vscode
