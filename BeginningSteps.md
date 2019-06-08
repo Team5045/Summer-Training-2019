@@ -40,3 +40,5 @@ make sure you have updated the roborio and the talon srx firmware
 to deploy code to the robot use py -3 robot.py deploy --skip-tests
 
 use "ctrl ~" to open powershell in vscode
+
+to open the simulator use python .\robot.py sim
