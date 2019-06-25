@@ -10,9 +10,11 @@ POSITION_TOLERANCE = 250
 
 class EncoderPositions(IntEnum):
     POSITION1 = 100
-    POSITION2 = 3000
-    POSITION3 = 6000
-    POSITION4 = 9000
+    POSITION2 = 750
+    POSITION3 = 1500
+    POSITION4 = 2250
+    POSITION5 = 3000
+    POSITION6 = 3750
 
 class EncoderMotor:
     USE_MOTIONMAGIC = True
@@ -44,7 +46,9 @@ class EncoderMotor:
         self.buffer = [ EncoderPositions.POSITION1,
                     EncoderPositions.POSITION2,
                     EncoderPositions.POSITION3,
-                    EncoderPositions.POSITION4
+                    EncoderPositions.POSITION4,
+                    EncoderPositions.POSITION5,
+                    EncoderPositions.POSITION6
                         ]
             
         self.index = 0
@@ -87,7 +91,7 @@ class EncoderMotor:
         self.pending_position = EncoderPositions.POSITION1
 
     def toggle(self, pos=True):
-        if self.index+1 < 4:
+        if self.index+1 < 6:
             self.index+=1
             self.pending_position = self.buffer[self.index]
         else:
