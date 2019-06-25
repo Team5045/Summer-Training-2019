@@ -1,1 +1,0 @@
-py -3 robot.py deploy --skip-tests
