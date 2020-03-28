@@ -34,7 +34,8 @@ plumbing overview on page 14 [here](https://firstfrc.blob.core.windows.net/frc20
 most links dont work but some are pretty good [here](https://first.wpi.edu/FRC/frc-mechanical.html)
 
 ## Updating pyfrc on your computer
-open terminal and run this command: pip3 install pyfrc
+open terminal and run this command: pip3 install pyfrc, referecne pyfrc docs for 2020 version
+MAKE SURE YOU HAVE 64 BIT PYTHON OR SOME LIBRARIES WILL NOT WORK
 
 ## Starting to Program
 make sure you have updated the roborio and the talon srx firmware
