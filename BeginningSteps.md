@@ -4,7 +4,7 @@ download [here](http://www.ni.com/download/first-robotics-software-2017/7904/en/
 tutorial for labview setup [here](https://wpilib.screenstepslive.com/s/currentCS/m/java/l/1027504-installing-the-frc-update-suite-all-languages)
 
 ## setting up roboRIO (only needs to be done once per roborio every year to get newest firmware)
-imaging new firmware steps [here](https://www.ni.com/en-us/innovations/white-papers/15/imaging-the-roborio-and-common-troubleshooting-techniques.html)
+imaging new firmware steps [here](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/imaging-your-roborio.html)
 
 you must download lab view before imaging roborio
 
